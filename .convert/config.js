@@ -4,7 +4,7 @@ var path = require('path');
 
 module.exports = {
   orgiRepo: 'FortAwesome/Font-Awesome',
-  ref: 'v4.1.0',
+  ref: 'v4.2.0',
   target: path.resolve(__dirname, '..'),
   name: 'font-awesome',
   repo: 'ddxq-components/font-awesome',
