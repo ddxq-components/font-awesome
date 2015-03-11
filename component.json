@@ -1,0 +1,14 @@
+{
+  "version": "4.1.0",
+  "name": "font-awesome",
+  "repo": "ddxq-components/font-awesome",
+  "description": "convert from [FortAwesome/Font-Awesome]",
+  "main": "css/font-awesome.css",
+  "fonts": [
+    "fonts/fontawesome-webfont.eot",
+    "fonts/fontawesome-webfont.svg",
+    "fonts/fontawesome-webfont.ttf",
+    "fonts/fontawesome-webfont.woff",
+    "fonts/FontAwesome.otf"
+  ]
+}
